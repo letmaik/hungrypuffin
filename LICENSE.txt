@@ -1,0 +1,12 @@
+Copyright (c) 2019 Maik Riechert
+
+Files not ending with an extension of .m4a, .ogg or .png
+included in this distribution are licensed according to the
+terms and conditions of the MIT license.
+See the file `LICENSE-MIT.txt` for the full license text.
+
+Files under the directory named www/assets with an extension
+of .png or .json included in this distribution
+are licensed according to the terms and conditions of the
+Creative Commons Attribution-NonCommercial 4.0 International license.
+See the file `LICENSE-CC-BY-NC.txt` for the full license text.
